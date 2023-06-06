@@ -3,6 +3,8 @@ wwwroot/lib
 wwwroot/js
 wwwroot/css
 build/
+obj/
+bin/
 coverage/
 .pnp
 .pnp.js
